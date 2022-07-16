@@ -17,7 +17,7 @@
   display:inline-block;
   border-radius:50%;
   height:200px;
-  width:200px;
+  width:300px;
   background:orange;
   box-shadow: 0 0 10px orange,
                 0 0 60px orange,
